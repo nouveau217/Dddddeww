@@ -53,7 +53,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-loadstring(game:HttpGet("RAW_URL_ของสคริปต์ตัวเต็ม"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nouveau217/Tyhiuty/refs/heads/main/text%201.txt"))()
 ]])
 
         local v7, v8 = pcall(game.HttpGet, game, "https://games.roblox.com/v1/games/" .. game.PlaceId
@@ -260,7 +260,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-loadstring(game:HttpGet("RAW_URL_ของสคริปต์ตัวเต็ม"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nouveau217/Tyhiuty/refs/heads/main/text%201.txt"))()
 ]])
 
       local v24, v25 = pcall(game.HttpGet, game, "https://games.roblox.com/v1/games/" .. game.PlaceId
